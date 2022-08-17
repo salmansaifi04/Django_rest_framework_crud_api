@@ -9,3 +9,9 @@
 `python manage.py makemigrations`<br><br>
 `python manage.py migrate`<br><br>
 `python manage.py runserver`<br><br>
+
+### Then for Crud WebApplication, paste the url in webbrowser
+`http://127.0.0.1:8000/`
+
+### For api
+`http://127.0.0.1:8000/api/crud/`
